@@ -1,0 +1,20 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.fakeimg {
+    height: 200px;
+    background-color: #ddd;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    position: sticky;
+    bottom: 0;
+}
