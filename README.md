@@ -13,7 +13,7 @@ A final-year Information Technology student with a strong focus on cybersecurity
 * ⚡  I'm a boxer—so if you ever need a sparring partner for your coding challenges, I'm your champ!
 
 ### Developer Profile
-[Visit My Dev Profile Website](https://pmalhotra21.github.io)
+[Visit My Dev Profile Website](https://pmalhotra21.github.io/pmalhotra21/)
 ### Skills
 
 <p align="left">
